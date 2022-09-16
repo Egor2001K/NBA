@@ -15,10 +15,6 @@
             </Image.OpacityMask>
         </Image>
         <StackPanel>
-            <TextBlock Text=""/>
-        </StackPanel>
-
-        <StackPanel>
 
             <Label Content="NBA Management System" Height="60" VerticalAlignment="Top"  HorizontalContentAlignment="Center" 
                Style="{StaticResource Title}" VerticalContentAlignment="Center" Margin="5"/>
